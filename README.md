@@ -1,4 +1,6 @@
-Project Overview
+# README
+
+## Project Overview
 This project explores the causal and predictive factors of electoral success in the 2022 U.S. primary elections, with a focus on campaign finance, candidate demographics, and incumbency status.
 We used both causal inference techniques (Inverse Propensity Weighting) and predictive modeling (GLMs and nonparametric methods) to address our research questions.
 
