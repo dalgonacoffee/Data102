@@ -4,17 +4,15 @@
 This project explores the causal and predictive factors of electoral success in the 2022 U.S. primary elections, with a focus on campaign finance, candidate demographics, and incumbency status.
 We used both causal inference techniques (Inverse Propensity Weighting) and predictive modeling (GLMs and nonparametric methods) to address our research questions.
 
-Repository Contents
+## Repository Contents
 All work for this project is contained in the Jupyter Notebook:
 
-Final Notebook (1).ipynb
+**Final Notebook (1).ipynb**
 This notebook includes the following sections:
 
-Data Cleaning & Preprocessing
-
-Merging and cleaning datasets from FiveThirtyEight and the FEC.
-
-Standardizing candidate names, simplifying race categories, and removing incomplete records.
+- Data Cleaning & Preprocessing
+  - Merging and cleaning datasets from FiveThirtyEight and the FEC.
+  - Standardizing candidate names, simplifying race categories, and removing incomplete records.
 
 Exploratory Data Analysis (EDA)
 
